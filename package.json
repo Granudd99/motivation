@@ -1,0 +1,11 @@
+{
+  "name": "motivationsgenerator",
+  "version": "1.0.0",
+  "description": "![Här kan du se hur projektet ska se ut när du är klar](./design/Desktop.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
